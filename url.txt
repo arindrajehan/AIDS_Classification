@@ -1,0 +1,2 @@
+url deployment : https://huggingface.co/spaces/Arie0809/P1M2_Ari
+url dataset : https://www.kaggle.com/datasets/aadarshvelu/aids-virus-infection-prediction/data?select=AIDS_Classification_5000.csv
